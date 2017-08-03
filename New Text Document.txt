@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//td[contains(text(),'NOTICE OF ELECTION (NOE)')]")).getText();
